@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Temp files
+.DS_Store
+*.tmp
+*.temp
+*.swp
+
+# Package lock files (if not used)
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+*.iml
+
+# Coverage
+coverage/
+
+# Other
+*.bak
